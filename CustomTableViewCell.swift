@@ -25,9 +25,6 @@ class CustomTableViewCell: UITableViewCell {
     @IBOutlet weak var Duedate: UILabel!
     
     
-    
-    
-
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
